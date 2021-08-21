@@ -9,7 +9,6 @@ backend:-javascript
 
 
 For demo card use
-
 Card No:- 4000 2141 4123
 cvv:- Any
 Validity:- Any
